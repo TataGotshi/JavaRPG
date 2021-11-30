@@ -5,7 +5,7 @@ import skills.*;
 
 public class Archer extends Hero {
 
-	private static final int MAX_HP=100;
+	private static final int MAX_HP=80;
 	private static final int STR=8;
 	private static final int INT=10;
 	private static final int DEF=6;
